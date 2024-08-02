@@ -4,4 +4,4 @@ management:
       exposure:
         include: refresh
 env:
-  info: tres
+  info: dasdasd
