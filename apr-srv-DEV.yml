@@ -1,2 +1,2 @@
 env:
-  info: player
+  info: ${CHECK_SUM}
