@@ -1,2 +1,5 @@
+spring:
+  config:
+    import: optional:configtree:/mnt/secrets-store/
 teste:
   val: ${NAMED_VALUE_TESTE}
