@@ -4,4 +4,4 @@ management:
       exposure:
         include: refresh
 env:
-  info: ${CHECK_SUM}
+  info: tres
